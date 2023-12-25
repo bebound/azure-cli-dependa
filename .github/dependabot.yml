@@ -9,7 +9,7 @@ updates:
     directory: "/src/azure-cli/" # Location of package manifests
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 0
+    open-pull-requests-limit: 100
   - package-ecosystem: "pip" # See documentation for possible values
     directory: "/src/azure-cli-core/" # Location of package manifests
     schedule:
