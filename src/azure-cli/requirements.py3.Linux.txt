@@ -94,7 +94,7 @@ cffi==1.15.1
 chardet==5.2.0
 colorama==0.4.6
 cryptography==41.0.6
-distro==1.6.0
+distro==1.9.0
 fabric==2.4.0
 humanfriendly==10.0
 idna==2.8
