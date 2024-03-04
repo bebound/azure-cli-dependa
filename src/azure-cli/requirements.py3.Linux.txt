@@ -114,7 +114,7 @@ oauthlib==3.2.2
 packaging==23.2
 paramiko==3.4.0
 pbr==5.3.1
-pkginfo==1.8.2
+pkginfo==1.10.0
 portalocker==2.3.2
 psutil==5.9.5
 pycomposefile==0.0.30
